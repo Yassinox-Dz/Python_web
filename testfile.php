@@ -1,3 +1,4 @@
 <?php
-echo ‘<p>Hello World test</p>’;
+/* Write your PHP code here */
+echo "Hello world, I'm a script!";
 ?>
